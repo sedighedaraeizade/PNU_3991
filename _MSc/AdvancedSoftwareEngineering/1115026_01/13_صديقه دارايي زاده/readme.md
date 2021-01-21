@@ -10,11 +10,9 @@
 - [javascript Certificate](https://github.com/sedighedaraeizade/PNU-3991-AR/blob/main/cert-1024-20742831.pdf)
 - [jlord patchwork]()
   
-------------------
 
-# تمرین ها
 
-# گروه ها
+
 ------------------
 ## Winter Semester Courses 1399/2020
 
