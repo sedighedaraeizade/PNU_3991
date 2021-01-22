@@ -55,8 +55,7 @@
     <th></th>
     <th></th>
     <th><a href="https://github.com/sedighedaraeizade/PNU-3991-AR/tree/main/Advanced%20Software%20Engineer" > مهندسی نرم افزار پیشرفته<br>دکتر رضوی</th>
-    
-    <th>پنج شنبه</th>
+     <th>پنج شنبه</th>
   </tr>
 </table>
 
